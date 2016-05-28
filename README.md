@@ -1,7 +1,6 @@
 # cbd - Cyberbullying Detection System
 
-## About the project
-This project was funded by a small grant provided by AUDA Foundation for a project entitled [Developing an online cloud-based cyberbullying detection system](http://www.audafoundation.org.au/grant-recipients/2013-grant-recipients/university-of-technology-sydney/) to Bhuva Narayan at UTS.
+
 
 ## What is included in the project?
 * The project consists of a web-based application build in django (i.e. Python) that includes a dashboard for users to monitor cyberbullying (located in the cbd_project folder). 
